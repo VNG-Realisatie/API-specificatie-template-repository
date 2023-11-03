@@ -1,0 +1,70 @@
+baseurl: "/xxxxxxx"
+apiname: "Xxxxx"
+url: "http://localhost:4000"
+# nav is t.b.v. generatie side-navigation menu.
+# Een 'title' zonder path of url genereert slechts een kopje.
+# 'path' vormt tezamen met de baseurl de url waarmee de 'href' wordt gevuld.
+# Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
+# 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
+nav:
+  - title: [Domein]
+    subnav:
+      - title: Introductie
+        path: /
+      - title: Productvisie
+        path: /Productvisie
+      - title: Architectuur
+        path: /Architectuur
+      - title: Informatiemodel
+        path: /Informatiemodel
+      - title: Documentatie
+        path: /Documentatie
+      - title: FAQ
+        path: /FAQ
+  - title: API-specificatie(s)
+    subnav:
+      - title: [Naam API-specificatie 1]
+        path: /[Naam_API-specificatie_1]/
+      - title: [Naam API-specificatie 2]
+        path: /[Naam_API-specificatie_2]/
+      - title: [Naam API-specificatie n]
+        path: /[Naam_API-specificatie_n]/
+
+  - title: [Title 1]
+    subnav:
+      - title: [Subtitle 1]
+        path: /[Title_1]/Subtitle_1
+      - title: [Subtitle 2]
+        path: /[Title_1]/Subtitle_2
+      - title: [Subtitle n]
+        path: /[Title_1]/Subtitle_n
+
+  - title: [Title n]
+    subnav:
+      - title: [Subtitle 1]
+        path: /[Title_n]/Subtitle_1
+      - title: [Subtitle 2]
+        path: /[Title_n]/Subtitle_2
+      - title: [Subtitle n]
+        path: /[Title_n]/Subtitle_n
+
+  - title: Over
+    subnav:
+      - title: Ontwikkeling
+        path: /Over/Ontwikkeling
+      - title: Contact
+        path: /Over/Contact
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
+
+github: VNG-Realisatie/Xxxxxx
+
+theme: jekyll-theme-time-machine
+
+project_name: /Open Raadsinformatie
+
+standard_family: VNG Realisatie
