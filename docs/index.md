@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Xxxxxxxx
+title: Xxxxxx
 ---
 
-# Xxxxxxxx
+# Xxxxxx
