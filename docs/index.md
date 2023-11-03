@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Xxxxxx
+title: Introductie Xxxxxx
 ---
 
-# Xxxxxx
+# Introductie
