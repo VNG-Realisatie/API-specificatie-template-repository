@@ -29,7 +29,6 @@ nav:
         path: /[Naam_API-specificatie_2]/
       - title: [Naam API-specificatie n]
         path: /[Naam_API-specificatie_n]/
-
   - title: [Title 1]
     subnav:
       - title: [Subtitle 1]
@@ -38,7 +37,6 @@ nav:
         path: /[Title_1]/Subtitle_2
       - title: [Subtitle n]
         path: /[Title_1]/Subtitle_n
-
   - title: [Title n]
     subnav:
       - title: [Subtitle 1]
@@ -47,7 +45,6 @@ nav:
         path: /[Title_n]/Subtitle_2
       - title: [Subtitle n]
         path: /[Title_n]/Subtitle_n
-
   - title: Over
     subnav:
       - title: Ontwikkeling
