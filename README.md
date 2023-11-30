@@ -3,7 +3,7 @@ Deze repository is een template repository die als basis voor het genereren van 
 Een VNG-R GitHub administrator kan de knop [_Use this template_](https://github.com/VNG-Realisatie/API-specificatie-template-repository/generate) gebruiken om een kopie van de onderliggende template aan te maken die vervolgens aangepast en uitgebreid kan worden.
 
 De op die wijze gecreëerde kopie bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
-* Indien de repository niet bedoelt is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
+* Indien de repository niet bedoeld is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
 * Ongewenste issue-report types kunnen uit de folder '.github/ISSUE_TEMPLATE' worden verwijderd;
 * Indien geen feature bestanden (rules) gewenst zijn dan kan de folder 'features' worden verwijderd;
 * De folder 'test' kan worden verwijderd als er in de repository nooit test bestanden zullen worden opgenomen;
