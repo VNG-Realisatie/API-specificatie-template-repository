@@ -9,6 +9,7 @@ title: Informatiemodel Xxxxxx
 * [Gegevenswoordenboek](#gegevenswoordenboek)
 * [Conceptueel Model](#conceptueel-model)
 * [Logisch Model](#logisch-model)
+* [GEMMA bedrijfsobjecten](#gemma-bedrijfsobjecten)
 
 ## Basisterminologie
 
