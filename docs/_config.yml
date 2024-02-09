@@ -54,7 +54,7 @@ nav:
       - title: Omgangsvormen
         path: /Over/CODE_OF_CONDUCT
       - title: Licentie
-        path: /Over/Licentie
+        path: /Over/LICENSE
 
 plugins:
   - jekyll-redirect-from
