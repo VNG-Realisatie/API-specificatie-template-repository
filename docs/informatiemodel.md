@@ -2,8 +2,13 @@
 layout: page-with-side-nav
 title: Informatiemodel Xxxxxx
 ---
-
 # Informatiemodel
+
+## Inhoudsopgave
+1. [Basisterminologie](#basisterminologie)
+2. [Gegevenswoordenboek](#gegevenswoordenboek)
+3. [Conceptueel Model](#conceptueel-model)
+4. [Logisch Model](#logisch-model)
 
 ## Basisterminologie
 
