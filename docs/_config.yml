@@ -52,7 +52,7 @@ nav:
       - title: Contact
         path: /Over/Contact
       - title: Omgangsvormen
-        path: /Over/Omgangsvormen
+        path: /Over/CODE_OF_CONDUCT
       - title: Licentie
         path: /Over/Licentie
 
