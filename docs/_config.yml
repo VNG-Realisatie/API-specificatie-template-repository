@@ -51,6 +51,10 @@ nav:
         path: /Over/Ontwikkeling
       - title: Contact
         path: /Over/Contact
+      - title: Omgangsvormen
+        path: /Over/Omgangsvormen
+      - title: Licentie
+        path: /Over/Licentie
 
 plugins:
   - jekyll-redirect-from
