@@ -33,8 +33,6 @@ Over het algemeen zal hier een link naar het document met de documentatie over h
 
 ## Logisch Model
 
-A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>A<br/>
-
 [Naar boven](./informatiemodel)
 
 [Beschrijft of toont hoe de, in het conceptuele informatiemodel onderscheiden, concepten gebruikt worden bij de interactie tussen systemen en hun gebruikers en tussen systemen onderling. In tekst en/of beeld.]
