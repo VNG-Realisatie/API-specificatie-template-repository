@@ -1,3 +1,8 @@
+---
+layout: page-with-side-nav
+title: Omgangsvormen
+---
+
 # Gedrachtscode voor bijdragen aan VNG Realisatie standaarden
 
 ## Onze belofte
