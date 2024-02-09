@@ -32,19 +32,19 @@ nav:
   - title: [Title 1]
     subnav:
       - title: [Subtitle 1]
-        path: /[title_1]/subtitle_1
+        path: /[title_1]/[subtitle_1]
       - title: [Subtitle 2]
-        path: /[title_1]/subtitle_2
+        path: /[title_1]/[subtitle_2]
       - title: [Subtitle n]
-        path: /[title_1]/subtitle_n
+        path: /[title_1]/[subtitle_n]
   - title: [Title n]
     subnav:
       - title: [Subtitle 1]
-        path: /[title_n]/subtitle_1
+        path: /[title_n]/[subtitle_1]
       - title: [Subtitle 2]
-        path: /[title_n]/subtitle_2
+        path: /[title_n]/[subtitle_2]
       - title: [Subtitle n]
-        path: /[title_n]/subtitle_n
+        path: /[title_n]/[subtitle_n]
   - title: Over
     subnav:
       - title: Ontwikkeling
