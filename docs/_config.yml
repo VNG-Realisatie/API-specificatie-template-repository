@@ -48,13 +48,13 @@ nav:
   - title: Over
     subnav:
       - title: Ontwikkeling
-        path: /over/ontwikkeling
+        path: /Over/ontwikkeling
       - title: Contact
-        path: /over/contact
+        path: /Over/contact
       - title: Omgangsvormen
-        path: /over/CODE_OF_CONDUCT
+        path: /Over/CODE_OF_CONDUCT
       - title: Licentie
-        path: /over/LICENSE
+        path: /Over/LICENSE
 
 plugins:
   - jekyll-redirect-from
