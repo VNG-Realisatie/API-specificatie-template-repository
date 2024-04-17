@@ -15,4 +15,5 @@ De op die wijze gecreëerde kopie bevat een standaard content en structuur die d
   * crëeren van Markdown bestanden;
   * plaatsen van illustratieve bestanden;
   * configureren van het '_config.yml' bestand.
-* Tevens kan de repository dan direct of op een later tijdstip worden geconfigureerd voor het genereren van een GitHub Pages site.
+  * Tevens kan de repository dan direct of op een later tijdstip worden geconfigureerd voor het genereren van een GitHub Pages site.
+  * **LET OP!** Vergeet niet de repository toe te voegen aan het 'gh-pages-rebuild.yml' script in de repo van het gerelateerde Jekyll theme.
