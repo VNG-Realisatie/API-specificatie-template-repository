@@ -9,7 +9,7 @@ Een VNG-R GitHub administrator kan de link [_Use this template_](https://github.
 
 De op die wijze gecreëerde kopie bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
 * Pas de waarden in de tabel hierboven aan zodat duidelijk is welk Kennis Centrum, Team of Project eigenaar van deze repository is en wie dat eigenaarschap invult;
-* Voorzie in een duidelijke beschrijving van de functie van deze repository. Zie daarvoor het tandwieletje on de de 'About' kop. Op basis van de tabel maar ook deze beschrijving kan t.b.v. beheer op de GitHub repositories op een later moment het bestaansrecht achterhaald worden;
+* Voorzie in een duidelijke beschrijving van de functie van deze repository. Zie daarvoor het tandwieletje onder de 'About' kop. Op basis van de tabel maar ook deze beschrijving kan t.b.v. beheer op de GitHub repositories op een later moment het bestaansrecht achterhaald worden;
 * Indien de repository niet bedoeld is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
 * Ongewenste issue-report types kunnen uit de folder '.github/ISSUE_TEMPLATE' worden verwijderd;
 * Indien geen feature bestanden (rules) gewenst zijn dan kan de folder 'features' worden verwijderd;
